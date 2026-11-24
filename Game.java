@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class game {
+public class Game {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int constant_number = 50;

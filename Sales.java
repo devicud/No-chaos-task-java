@@ -1,4 +1,4 @@
-public class sales {
+public class Sales {
     public static void main(String[] args) {
         double profitAnnually = (30000 - 5000);
         double fixedSales = (6.0 / 100 * 5000) + (8.0 / 100 * 5000);
